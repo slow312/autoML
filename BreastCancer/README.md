@@ -20,7 +20,6 @@
 ![features importance across models](features_heatmap.png)
 
 
-
 ### Spearman Correlation of Models
 ![models spearman correlation](correlation_heatmap.png)
 
