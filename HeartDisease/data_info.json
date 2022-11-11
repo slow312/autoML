@@ -1,0 +1,67 @@
+{
+    "columns": [
+        "male",
+        "age",
+        "education",
+        "currentSmoker",
+        "cigsPerDay",
+        "BPMeds",
+        "prevalentStroke",
+        "prevalentHyp",
+        "diabetes",
+        "totChol",
+        "sysBP",
+        "diaBP",
+        "BMI",
+        "glucose",
+        "TenYearCHD"
+    ],
+    "rows": 4237,
+    "cols": 15,
+    "target_is_numeric": true,
+    "columns_info": {
+        "male": [],
+        "age": [
+            "scale"
+        ],
+        "education": [
+            "missing_values",
+            "scale"
+        ],
+        "currentSmoker": [],
+        "cigsPerDay": [
+            "missing_values",
+            "scale"
+        ],
+        "BPMeds": [
+            "missing_values"
+        ],
+        "prevalentStroke": [],
+        "prevalentHyp": [],
+        "diabetes": [],
+        "totChol": [
+            "missing_values",
+            "scale"
+        ],
+        "sysBP": [
+            "scale"
+        ],
+        "diaBP": [
+            "scale"
+        ],
+        "BMI": [
+            "missing_values",
+            "scale"
+        ],
+        "glucose": [
+            "missing_values",
+            "scale"
+        ],
+        "TenYearCHD": []
+    },
+    "target_info": [
+        "scale"
+    ],
+    "n_features": 15,
+    "is_sample_weighted": false
+}
